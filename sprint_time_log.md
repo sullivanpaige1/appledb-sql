@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: Paige Sullivan
 
-Sprint #:
+Sprint #: 4
 
 ## Instructions
 
@@ -15,7 +15,7 @@ For the Category column, record one of the following:
 
 The expected minimum amount of time each Sprint for each category is as follows:
 
-|Categroy                       |Total Time (Hours:Minutes)|
+|Category                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
 |IM - Individual Module         |          10:00           |
 |TP - Team Project              |           4:00           |
@@ -26,12 +26,11 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|11/02/2026          |10:15          |TP        |Setting up TP in VS Code                                            |1 hour             |
+|11/04/2026          |10:15          |TP        |Debugging/Troubleshooting                                            |1 hour             |
+|11/09/2026          |10:15          |TP        |Consulting/Providing feedback                                            |1 hour             |
+|11/11/2026          |5:00          |IM        |SQL/building the database                                            |5 hours             |
+|11/12/2026          |5:00          |IM        |Finishing db                                            |3 hours             |
 
 _Note: Add more rows as needed._
 
@@ -39,7 +38,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |8:00                          |
+|TP - Team Project              |3:00                          |
+|MTG - Class Meetings           |2:00                          |
+|**TOTAL**                      |**13:00**                          |
